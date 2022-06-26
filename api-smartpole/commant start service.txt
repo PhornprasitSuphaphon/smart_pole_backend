@@ -1,0 +1,6 @@
+systemctl restart smart_pole
+systemctl restart modbus_tcp
+systemctl restart restart_api
+
+
+ffmpeg -rtsp_transport tcp -i "rtsp://171.103.249.186:8005" -r 30 -s 640x480 -an http://122.155.217.30:3009/feed.ffm

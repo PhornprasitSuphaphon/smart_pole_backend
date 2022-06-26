@@ -1,0 +1,10 @@
+Flask
+Flask-SocketIO
+Flask-Cors         
+Flask-MQTT 
+PyMySQL
+Flask-MQTT 
+setuptools
+opencv-python-headless
+imutils 
+requests

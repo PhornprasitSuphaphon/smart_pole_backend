@@ -1,0 +1,4 @@
+Flask
+setuptools
+pyModbusTCP
+paho-mqtt
